@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 Here are a few projects I've worked on:
 
-(https://day-71-starting-files-blog-for-deployment-sj0j.onrender.com)) - A website that helps you to create your own blogs delete existing blogs and help you to interact with other users.
+([my-blog-website](https://day-71-starting-files-blog-for-deployment-sj0j.onrender.com)) - A website that helps you to create your own blogs delete existing blogs and help you to interact with other users.
 
 ## GitHub Stats
 
