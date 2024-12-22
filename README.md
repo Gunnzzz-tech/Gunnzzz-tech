@@ -1,4 +1,4 @@
-# Hi there, I'm Gunnzzz-tech! 👋
+# Hi there, I'm Gungun Bali! ☕🕵🏻‍♀️
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for technology and coding. Here's a bit about me:
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 - 🤔 I’m looking for help with Web-based GIS Platforms
 - 💬 Ask me about Flask API.  
 - 📫 How to reach me: https://www.instagram.com/gungunbali
-- 😭 Fun fact: I can survive Alice in borderland.(First thing that came in mind)
+- 😭 Fun fact: I can survive borderland.(First thing that came in mind)
 
 ## My Skills
 
