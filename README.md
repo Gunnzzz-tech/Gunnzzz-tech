@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 - 🤔 I’m looking for help with Web-based GIS Platforms
 - 💬 Ask me about Flask API.  
 - 📫 How to reach me: https://www.instagram.com/gungunbali
-- 😭 Fun fact: I can survive borderland.(First thing that came in mind)
+
 
 ## My Skills
 
@@ -22,7 +22,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 Here are a few projects I've worked on:
 
-([my-blog-website](https://day-71-starting-files-blog-for-deployment-sj0j.onrender.com)) - A website that helps you to create your own blogs delete existing blogs and help you to interact with other users.
+Have a look at my portfolio..
+(https://gg-portfolio.web.app) 
 
 ## GitHub Stats
 
